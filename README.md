@@ -1,5 +1,5 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es José Quintero 👋
-### Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional
+### Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional.
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
 
