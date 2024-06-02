@@ -25,7 +25,7 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 
 ## Chatbot para atención de dudas escolares:
 
-<a href="https://github.com/JoeQuintero/Chatbot_Streamlit"><img src="https://github.com/JoeQuintero/Chatbot_Streamlit/blob/main/chatbot.png" style="height: 40%; width:40%;"/></a>
+<a href="https://github.com/JoeQuintero/Chatbot_Streamlit"><img src="https://github.com/JoeQuintero/Chatbot_Streamlit/blob/main/chatbot.png" style="height: 30%; width:30%;"/></a>
 
 ## Contacto:
 [![Gmail](https://img.shields.io/badge/jlqg1322@gmail.com-email_personal_(respuesta_lenta)-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jlqg1322@gmail.com)
