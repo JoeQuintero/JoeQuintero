@@ -2,7 +2,7 @@
 ## Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional.
 >Bienvenido a mi sitio en GitHub.
 
-Un poco sobre mí...
+###Un poco sobre mí...
 Soy estudiante de ingeniería desde 2020.
 
 He trabajado en distintos proyectos escolares utilizando C, C++, HTML, CSS, JavaScript, Java y Python.
