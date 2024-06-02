@@ -1,4 +1,4 @@
-# <img src="https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png" alt="<>" width="100"/> Hola, mi nombre es José Quintero 👋
+# <img src="https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png" alt="<>" width="70"/> Hola, mi nombre es José Quintero 👋
 ### Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional.
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
