@@ -1,4 +1,4 @@
-# <img src="https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png" alt="<>" width="30"/> Hola, mi nombre es José Quintero
+# <img src="https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png" alt="<>" width="30"/> Hola, me llamo José Quintero
 ## Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional.
 
 Soy estudiante de ingeniería desde 2020.
