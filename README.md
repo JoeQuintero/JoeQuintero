@@ -1,4 +1,4 @@
-# ![Nothing](https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png){ width=50% } Hola, mi nombre es José Quintero 👋
+# ![Nothing](https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png =x250) Hola, mi nombre es José Quintero 👋
 #<a href=""><img src="https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png" style="height: 8%; width:8%;"/></a> Hola, mi nombre es José Quintero 👋
 ### Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional.
 
