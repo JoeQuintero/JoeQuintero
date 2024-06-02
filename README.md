@@ -28,4 +28,4 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 <a href="https://github.com/JoeQuintero/Chatbot_Streamlit"><img src="https://github.com/JoeQuintero/Chatbot_Streamlit/blob/main/chatbot.png" style="height: 40%; width:40%;"/></a>
 
 ## Contacto:
-[![Gmail](https://img.shields.io/badge/jlqg1322@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jlqg1322@gmail.com)
+[![Gmail](https://img.shields.io/badge/jlqg1322@gmail.com-email_personal_(respuesta_lenta)-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jlqg1322@gmail.com)
