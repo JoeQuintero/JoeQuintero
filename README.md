@@ -14,7 +14,7 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 
 <a href="https://github.com/JoeQuintero/Chatbot_Streamlit"><img src="https://github.com/JoeQuintero/Chatbot_Streamlit/blob/main/chatbot.png" style="height: 25%; width:25%;"/></a>
 
-### Encuéntrame en:
+## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Quintero-1877F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jxsequintero/)
 </br>
@@ -29,5 +29,5 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 [![YouTube](https://img.shields.io/badge/YouTube-José_Quintero-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCkfxDExNF3sZ6StrXRwEWKg)
 </br>
 
-### Contacto:
+### Contacto directo:
 [![Gmail](https://img.shields.io/badge/jlqg1322@gmail.com-email_personal_(respuesta_lenta)-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jlqg1322@gmail.com)
