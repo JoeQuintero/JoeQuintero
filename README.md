@@ -8,6 +8,12 @@ Soy estudiante de ingeniería desde 2020.
 He trabajado en distintos proyectos escolares utilizando C, C++, HTML, CSS, JavaScript, Java y Python.
 Las Bases de datos que he utilizado son MySQL y Postgress.
 
+## Algunos proyectos que he realizado:
+
+### Chatbot para atención de dudas escolares - Python(Streamlit)
+
+<a href="https://github.com/JoeQuintero/Chatbot_Streamlit"><img src="https://github.com/JoeQuintero/Chatbot_Streamlit/blob/main/chatbot.png" style="height: 25%; width:25%;"/></a>
+
 ### Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Quintero-1877F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jxsequintero/)
@@ -22,12 +28,6 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 </br>
 [![YouTube](https://img.shields.io/badge/YouTube-José_Quintero-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCkfxDExNF3sZ6StrXRwEWKg)
 </br>
-
-## Algunos proyectos que he realizado:
-
-### Chatbot para atención de dudas escolares - Python(Streamlit)
-
-<a href="https://github.com/JoeQuintero/Chatbot_Streamlit"><img src="https://github.com/JoeQuintero/Chatbot_Streamlit/blob/main/chatbot.png" style="height: 25%; width:25%;"/></a>
 
 ### Contacto:
 [![Gmail](https://img.shields.io/badge/jlqg1322@gmail.com-email_personal_(respuesta_lenta)-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jlqg1322@gmail.com)
