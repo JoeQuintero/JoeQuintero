@@ -1,4 +1,5 @@
 # <img src="https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png" alt="<>" width="30"/> José Quintero
+>Bienvenido a mi sitio en GitHub.
 ## Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional.
 
 Soy estudiante de ingeniería desde 2020.
