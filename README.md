@@ -25,17 +25,7 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 
 ## Chatbot para atención de dudas escolares:
 
-<a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
-
-## SQL y bases de datos: Curso gratis
-
-<a href="https://mouredev.link/sql"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-
-
-[![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
-
+<a href="https://github.com/JoeQuintero/Chatbot_Streamlit"><img src="https://github.com/JoeQuintero/Chatbot_Streamlit/blob/main/chatbot.png" style="height: 40%; width:40%;"/></a>
 
 ## Contacto:
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Gmail](https://img.shields.io/badge/jlqg1322@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jlqg1322@gmail.com)
