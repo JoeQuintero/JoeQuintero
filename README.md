@@ -23,7 +23,7 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 
 # Algunos proyectos que he realizado:
 
-## Chatbot para atención de dudas escolares:
+## Chatbot para atención de dudas escolares - Python(Streamlit)
 
 <a href="https://github.com/JoeQuintero/Chatbot_Streamlit"><img src="https://github.com/JoeQuintero/Chatbot_Streamlit/blob/main/chatbot.png" style="height: 25%; width:25%;"/></a>
 
