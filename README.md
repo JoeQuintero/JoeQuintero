@@ -10,11 +10,11 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 
 [![YouTube](https://img.shields.io/badge/YouTube-José_Quintero-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCkfxDExNF3sZ6StrXRwEWKg)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@Joe_Quintero13-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/Joe_Quintero13)
+[![Twitter](https://img.shields.io/badge/X-@Joe_Quintero13-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/Joe_Quintero13)
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@jxsequintero-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/jxsequintero/)
 </br>
-[![Facebook](https://img.shields.io/badge/Facebook-José-Quintero-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=100046125168554)
+[![Facebook](https://img.shields.io/badge/Facebook-José_Quintero-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=100046125168554)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Quintero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jxsequintero/)
 </br>
