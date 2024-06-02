@@ -1,14 +1,10 @@
-# <img src="https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png" alt="<>" width="40"/> Hola, mi nombre es José Quintero
-### Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional.
-
-![https://github.com/mouredev](./mouredev_github_profile.png)
+#<img src="https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png" alt="<>" width="40"/> Hola, mi nombre es José Quintero
+## Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional.
 
 Soy estudiante de ingeniería desde 2020.
 
 He trabajado en distintos proyectos escolares utilizando C, C++, HTML, CSS, JavaScript, Java y Python.
 Las Bases de datos que he utilizado son MySQL y Postgress.
-
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
 
 ## Encuéntrame en:
 
