@@ -14,6 +14,9 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 
 <a href="https://github.com/JoeQuintero/Chatbot_Streamlit"><img src="https://github.com/JoeQuintero/Chatbot_Streamlit/blob/main/chatbot.png" style="height: 25%; width:25%;"/></a>
 
+### Prototipo restaurante - Bonita Studio
+<a href="https://github.com/JoeQuintero/Restaurante_BonitaSoftware"><img src="https://github.com/JoeQuintero/Restaurante_BonitaSoftware/blob/main/restaurant.png" style="height: 25%; width:25%;"/></a>
+
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Quintero-1877F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jxsequintero/)
