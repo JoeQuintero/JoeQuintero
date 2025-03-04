@@ -1,9 +1,9 @@
 >Bienvenido a mi sitio en GitHub. 👋
 # <img src="https://github.com/JoeQuintero/JoeQuintero/blob/main/icon.png" alt="<>" width="30"/> José Quintero
-## Estudiante de Ingeniería en Informática del Instituto Politécnico Nacional.
+## Pasante de Ingeniería en Informática del Instituto Politécnico Nacional.
 
 ### Un poco sobre mí...
-Soy estudiante de ingeniería desde 2020.
+Soy pasante de ingeniería en informática de la UPIICSA. 
 
 He trabajado en distintos proyectos escolares utilizando C, C++, HTML, CSS, JavaScript, Java y Python.
 Las Bases de datos que he utilizado son MySQL y Postgress.
