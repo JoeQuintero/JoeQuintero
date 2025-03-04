@@ -3,7 +3,7 @@
 ## Pasante de Ingeniería en Informática del Instituto Politécnico Nacional.
 
 ### Un poco sobre mí...
-Soy pasante de ingeniería en informática de la UPIICSA. 
+Soy pasante de ingeniería en informática de la UPIICSA, IPN. 
 
 He trabajado en distintos proyectos escolares utilizando C, C++, HTML, CSS, JavaScript, Java y Python.
 Las Bases de datos que he utilizado son MySQL y Postgress.
