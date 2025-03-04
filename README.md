@@ -36,4 +36,4 @@ Las Bases de datos que he utilizado son MySQL y Postgress.
 </br>
 
 ### Contacto directo:
-[![Gmail](https://img.shields.io/badge/jlqg1322@gmail.com-email_personal_(respuesta_lenta)-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jlqg1322@gmail.com)
+[![Gmail](https://img.shields.io/badge/jlqg1329@gmail.com-email_personal_(respuesta_lenta)-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jlqg1329@gmail.com)
